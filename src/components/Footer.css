@@ -1,0 +1,16 @@
+footer {
+    position: sticky;
+    top: 100%;
+}
+
+footer a {
+    color: #000;
+    margin: 0 8px;
+    opacity: 0.75;
+    display: inline-block;
+}
+
+footer a:hover {
+    color: #00f;
+    opacity: 0.9;
+}
